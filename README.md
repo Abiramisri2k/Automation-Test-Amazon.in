@@ -1,5 +1,5 @@
-# Automation-Test-Amazon.in
+# Automation Test
 
-<p>Here I practice automation test in <b>amazon.in</b> e-commerce site.<br><br>
-Log in, Create account, Add to cart funtionality test done here by using<br>
-Java, Selenium, Eclipse.
+<p>Practice automation test in <b>amazon.in</b> e-commerce site.<br><br>
+Tools used in this project - Core Java, Selenium, TestNG, POM.<br>
+  Tested functionalities - Log in, Create account and Add to cart.
