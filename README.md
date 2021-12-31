@@ -1,5 +1,5 @@
 # Automation Test - Amazon.in
 
-<p>Here I take <b>amazon.in</b> e-commerce site to practice automation test.<br><br>
-Tools used in this project - Core Java, Selenium, TestNG, POM.<br>
-  Tested functionalities - Log in, Create account and Add to cart.
+<h2> About this project </h2>
+
+<p>In this project I take amazon.in e-commerce site for practice automation test. I use Core Java, Selenium, TestNG, POM to run the test. I did various functionality test like Log in, Create account and Add to cart in amazon.in e-commerce site.</p>
